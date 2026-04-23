@@ -5,7 +5,7 @@ This project automates the generation of documents using structured data from a 
 ---
 
 ## 🚀 Features
-- Reads data from CSV file
+- Reads structured data from CSV file
 - Automatically generates Word documents
 - Reduces repetitive manual tasks
 - Scalable for batch processing
